@@ -4,7 +4,7 @@ A.	Business Task;
 The Sales analysis aims to:
 
 1. Develop a visual dashboard for the internet sales report focused on:
- how much sales, of what products, to what clients by what city and trend of Sales over th 5 years from 2019-2023
+ how much sales, of what products, to what clients by what city and trend of sales over the 5 years from 2019-2023.
 
 2. Compare sales to Budget
 
